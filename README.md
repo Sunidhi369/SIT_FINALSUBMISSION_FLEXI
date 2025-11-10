@@ -42,15 +42,19 @@ The application is built using **React**, **Node.js**, **Express**, and **MongoD
 
 ## 📸 Screenshots
 
-<img src="./screenshots/home.png" alt="Home Page" width="600"/>
 
-<img src="./screenshots/Login.png" alt="Login Page" width="600"/>
+
 
 <img src="./screenshots/SignUp.png" alt="Signup Page" width="600"/>
 
-<img src="./screenshots/data.png" alt="Dashboard Page" width="600"/>
+<img src="./screenshots/Login.png" alt="Login Page" width="600"/>
+
+<img src="./screenshots/home.png" alt="Home Page" width="600"/>
 
 <img src="./screenshots/database.png" alt="Logout Feature" width="600"/>
 
-## 📁 Project Folder Structure
+<img src="./screenshots/data.png" alt="Dashboard Page" width="600"/>
+
+
+
 
